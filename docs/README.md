@@ -1,5 +1,5 @@
 # student-project
-v1.0.0
+v1.1.0
 ## Description:
 - Archivo python con datos en csv
 ## Installation instruction
@@ -7,6 +7,6 @@ v1.0.0
 ## Usage examples
 - 
 ## How to contribute
-- 
+- Donate
 ## Contact
 - Miguel [miguel.gprieto@alumnos.upm.es]

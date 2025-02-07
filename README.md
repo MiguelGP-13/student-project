@@ -1,6 +1,6 @@
 # student-project
 ## Description:
-- 
+- Archivo python con datos en csv
 ## Installation instruction
 - 
 ## Usage examples
